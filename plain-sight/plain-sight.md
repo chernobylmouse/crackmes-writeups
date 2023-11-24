@@ -1,5 +1,5 @@
 # I3a4dam's Plain sight writeup
-# By Chernobyl Mouse [@chernobylmouse6](htttps://twitter.com/chernobylmouse6) 
+# By Chernobyl Mouse [@chernobylmouse6](https://twitter.com/chernobylmouse6) 
 Date:  2023/11/21 15:45
 This [crackmes](https://crackmes.one) can be found [here](https://crackmes.one/crackme/6513567328b5870bef263329).
 
